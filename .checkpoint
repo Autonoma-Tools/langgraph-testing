@@ -1,9 +1,9 @@
 {
   "version": 1,
   "slug": "langgraph-testing",
-  "step": "created",
-  "completed_specs": [],
-  "pending_specs": ["snippet-graph", "snippet-test-node-isolation", "snippet-test-trajectory", "snippet-test-multi-turn", "snippet-debug-replay"],
-  "created_at": "2026-07-24T10:05:14Z",
-  "updated_at": "2026-07-24T10:05:14Z"
+  "step": "pushed",
+  "completed_specs": ["snippet-graph", "snippet-test-node-isolation", "snippet-test-trajectory", "snippet-test-multi-turn", "snippet-debug-replay"],
+  "pending_specs": [],
+  "created_at": "2026-07-24T10:05:43Z",
+  "updated_at": "2026-07-24T10:05:43Z"
 }
